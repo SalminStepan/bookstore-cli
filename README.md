@@ -18,7 +18,7 @@ Simple command-line application for managing a book catalog.
 ## Run
 
 ```bash
-python3 Books_HH.py
+python3 bookstore.py
 
 Example usage
 
